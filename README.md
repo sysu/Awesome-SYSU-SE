@@ -175,7 +175,7 @@ NBA-Salary-Prediction这个项目是我在2019年暑假在作为微软兼职助�
 
 #### [GRE_Notes](https://github.com/LovelyBuggies/GRE_Notes)
 
-经过半年的刷题，我最终在2019/11/23以323（*V155+Q148*）勉强告别鸡阿姨。这个仓库存了一些我认为有价值的GRE学习资料。
+经过半年的刷题，我最终在2019/11/23以323（*V155+Q148+AW3.5*）勉强告别鸡阿姨。这个仓库存了一些我认为有价值的GRE学习资料。
 
 #### [Paper_TSC](https://github.com/LovelyBuggies/Paper_TSC)
 
