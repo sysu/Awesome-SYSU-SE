@@ -145,6 +145,10 @@ pysc2_maddpg 这个项目是我在2018年暑假在**中科院自动化所**的�
 
 这是我大三下**数据挖掘导论**的期末项目。这门课我的老师是**梁上松**老师。因为到了期末周实在应付不来各种大项目了，所以稍微改了一下人工神经网络的期末项目。幸运的是，最后这个项目也得到了梁老师的青睐，给了我99分！
 
+#### [Make-Spare-Money](https://github.com/make-money-sysu)
+
+这是我们组大三下**软件工程综合实验**的项目，授课老师是**王青**。挣闲钱系统包括是学生管理系统、任务管理系统、交易管理系统、账户管理系统等，特别合适采用面向服务的架构实现。系统的难点在于运营，即任务（业务）的发现与投放。
+
 #### [Paper_EITCE](https://github.com/LovelyBuggies/Paper_EITCE)
 
 Paper_EITCE 是我的论文*Optimal Analysis of Target Dynamic Tracking Strategy Based on Computer Vision*的存档。因为隐私性的原因，论文仓库尚未开源。
