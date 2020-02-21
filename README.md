@@ -1,4 +1,4 @@
-# SYSU Valedictory
+# Awesome SYSU SE
 
 [TOC]
 
