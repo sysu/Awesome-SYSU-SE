@@ -1,8 +1,8 @@
 # Awesome SYSU SE
 
-这个库提供了中山大学软件工程专业的相关工作，可以用作参考。
-
 ![](http://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20180127/4c41d86361d549b2966a65df2416bdfc.jpeg)
+
+这个库提供了中山大学软件工程专业的相关工作，可以用作参考。
 
 ---
 
@@ -19,7 +19,7 @@
 
 ####  [Cplusplus_GraphTheory_Experiments](https://github.com/LovelyBuggies/Cplusplus_GraphTheory_Experiments)
 
-这是我大一下学习**离散数学**的代码记录。我离散数学的老师是**乔海燕**老师（~~帮主~~），当时课程要求是说可以通过实现课程中学到的理论知识（算法）来获得bonus。我实现了课程学到的几个图论算法——Prim、Kruskal、Dijkstra、深度优先、广度优先、临接表，还有一个测试客户端。遗憾的是，最后这些代码虽然获得了乔老师的满意，但是没有加多少分。不过这些代码的实现对后来我数据结构的学习起到了很重要的作用。
+这是我大一下学习**离散数学**的代码记录。我离散数学的老师是**乔海燕**老师，当时课程要求是说可以通过实现课程中学到的理论知识（算法）来获得bonus。我实现了课程学到的几个图论算法——Prim、Kruskal、Dijkstra、深度优先、广度优先、临接表，还有一个测试客户端。遗憾的是，最后这些代码虽然获得了乔老师的满意，但是没有加多少分。不过这些代码的实现对后来我数据结构的学习起到了很重要的作用。
 
 #### [Cplusplus_PrimaryPracticalTraining_MyAgenda](https://github.com/LovelyBuggies/Cplusplus_PrimaryPracticalTraining_MyAgenda)
 
@@ -75,7 +75,7 @@
 
 ####  [Verilog_ComputerOrganization_Experiments](https://github.com/LovelyBuggies/Verilog_ComputerOrganization_Experiments)
 
-这是数字电路与逻辑设计实验课的进阶版，是我大二下学习**计算机组成原理与接口技术实验**的代码记录。这门课我的老师是**何朝东**（~~小火龙~~）老师，没有期末考试，平时作业一共就三次，次次是硬茬。第一次实验让我们设计一个简单实验熟悉一下实验环境；第二次是设计一个单周期CPU；最后一次是实现一个多周期CPU。虽然这个课很涨技能，但是这之后我再也没有尝试任何与烧板子类似的选修课学习。
+这是数字电路与逻辑设计实验课的进阶版，是我大二下学习**计算机组成原理与接口技术实验**的代码记录。这门课我的老师是**何朝东**老师，没有期末考试，平时作业一共就三次，次次是硬茬。第一次实验让我们设计一个简单实验熟悉一下实验环境；第二次是设计一个单周期CPU；最后一次是实现一个多周期CPU。虽然这个课很涨技能，但是这之后我再也没有尝试任何与烧板子类似的选修课学习。
 
 ####  [Matlab_MachineLearning_AndrewNg](https://github.com/LovelyBuggies/Matlab_MachineLearning_AndrewNg)
 
@@ -95,7 +95,7 @@ pysc2_maddpg 这个项目是我在2018年暑假在**中科院自动化所**的�
 
 #### [Solidity_ScoreChain_Dapp](https://github.com/LovelyBuggies/Solidity_ScoreChain_Dapp)
 
-这是我大三上学习**区块链原理和技术**课程的期末项目代码记录，这门课我的老师是郑子彬老师（~~Inplus联盟~~）。这个项目中我参考 [Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ) 的Dapp搭建教程，用Solidity实现了一个去中心化的评分系统——Score Chain，实现公开透明化打分。最终我获得99分，而且这个项目十分简单，容易上手，推荐想要搭建Dapp环境的新手看一下。
+这是我大三上学习**区块链原理和技术**课程的期末项目代码记录，这门课我的老师是**郑子彬**老师。这个项目中我参考 [Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ) 的Dapp搭建教程，用Solidity实现了一个去中心化的评分系统——Score Chain，实现公开透明化打分。最终我获得99分，而且这个项目十分简单，容易上手，推荐想要搭建Dapp环境的新手看一下。
 
 ####  [MultimediaTechnology_Experiments](https://github.com/LovelyBuggies/MultimediaTechnology_Experiments)
 
