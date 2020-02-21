@@ -1,8 +1,6 @@
 # Awesome SYSU SE
 
-[TOC]
-
-> 这是我在中山大学软件工程本科的最后一个学期，时光荏苒，转眼就从新生军训到了毕业季。回想起来，在中大软件工程专业的学习经历在我人生的轨道上留下了独特印记，我在这里认识了很多良师益友，做了很多有意义的事情。本科阶段，我将我大部分的代码上传到了GitHub上，在此总结一下我本科阶段的仓库，作为对我在中大本科学习的告别！
+这个库提供了中山大学软件工程专业的相关工作，可以用作参考。
 
 ![](http://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20180127/4c41d86361d549b2966a65df2416bdfc.jpeg)
 
@@ -12,7 +10,7 @@
 
 #### [LovelyBuggies.github.io](https://github.com/LovelyBuggies/LovelyBuggies.github.io)
 
-我的个人博客。记录平时作业、学习、生活。
+我的个人博客。记录平时作业、学习、生活。现以迁移到简书[Nino Lau](https://www.jianshu.com/u/ad132373fc48)，不再维护。
 
 ####  [Cplusplus_CppProgramming_Homework](https://github.com/LovelyBuggies/Cplusplus_CppProgramming_Homework)
 
