@@ -183,13 +183,5 @@ Paper_TSC 是我和CT、[HZC](https://github.com/hongzicong)共同完成论文*S
 
 这个仓库是我在 2020 Fall US CS MS 的申请文件夹，帮助我高效有序地完成了20多个项目的申请，包括个人信息、文书、其他申请材料等。该仓库中所有敏感信息已被覆盖掉，如果转载请标明原始出处，抄袭必究。
 
-#### [Uploader-Material](https://github.com/LovelyBuggies/Uploader-Material)
-
-申请结束后，心血来潮，希望能用更立体化的方式记录自己的生活和经验。因此开始尝试做Up主（[跳跳虎-Nino](https://space.bilibili.com/490858107)）。
-
-#### 毕业论文仓库
-
-待续。。。
-
 ---
 
